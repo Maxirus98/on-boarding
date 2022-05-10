@@ -1,0 +1,15 @@
+.container {
+    display: table-cell;
+    justify-content: center;
+}
+
+.container .child {
+    border:1px solid black;
+    padding-top:2%;
+    height: fit-content;
+}
+
+.container .child img{
+    width: 30%;
+    height: 30%;
+}
