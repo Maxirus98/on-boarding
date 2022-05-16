@@ -14,7 +14,7 @@ const UserList = () => {
   {
     email: "leonella.levymartel@elancedei.com",
     fullName: "Leonella Ariane Levy Martel",
-    githubProfileImageUrl: ""
+    githubProfileImageUrl: "https://avatars.githubusercontent.com/u/89606009?s=400&v=4"
   }
   ])
   return (
