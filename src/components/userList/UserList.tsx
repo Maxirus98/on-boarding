@@ -11,26 +11,11 @@ const UserList = () => {
       fullName:"Maxime Dupuis",
       githubProfileImageUrl:"https://avatars.githubusercontent.com/u/70596866?s=400&v=4"
     },
-    {
-      email:"maxime.dupuis@elancedei.com",
-      fullName:"Maxime Dupuis",
-      githubProfileImageUrl:"https://avatars.githubusercontent.com/u/70596866?s=400&v=4"
-    },
-    {
-      email:"maxime.dupuis@elancedei.com",
-      fullName:"Maxime Dupuis",
-      githubProfileImageUrl:"https://avatars.githubusercontent.com/u/70596866?s=400&v=4"
-    },
-    {
-      email:"maxime.dupuis@elancedei.com",
-      fullName:"Maxime Dupuis",
-      githubProfileImageUrl:"https://avatars.githubusercontent.com/u/70596866?s=400&v=4"
-    },
-    {
-      email:"maxime.dupuis@elancedei.com",
-      fullName:"Maxime Dupuis",
-      githubProfileImageUrl:"https://avatars.githubusercontent.com/u/70596866?s=400&v=4"
-    }
+  {
+    email: "leonella.levymartel@elancedei.com",
+    fullName: "Leonella Ariane Levy Martel",
+    githubProfileImageUrl: ""
+  }
   ])
   return (
     <table>
